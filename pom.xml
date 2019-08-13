@@ -26,7 +26,6 @@
 	</properties>
 
 	
-	#https://github.com/Rajkabhay/Devops01.git
 	<scm>
 		<connection>scm:git:git@github.com:Rajkabhay/Devops01.git</connection>
 		<developerConnection>scm:git:git@github.com:Rajkabhay/Devops01.git</developerConnection>
